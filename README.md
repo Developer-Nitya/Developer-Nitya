@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/27zFKjZV/Github-Banner.jpg">
+<img src="https://i.ibb.co.com/39WV3FZH/Git-Hub-Banner-2.jpg">
 <h3 align="center">Creative Web Designer & Web Developer | WordPress Expert Focused on Modern, Responsive Design | Passionate About Digital Innovation | Guiding the Next Generation of Web Developers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-nitya&label=Profile%20views&color=0e75b6&style=flat" alt="developer-nitya" /> </p>
